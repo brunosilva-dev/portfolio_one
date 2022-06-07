@@ -31,3 +31,7 @@ ul,
 p {
   margin: 0px;
 }
+
+[src$=".jpg"] {
+  border-radius: 4px;
+}
